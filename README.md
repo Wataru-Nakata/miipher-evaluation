@@ -1,3 +1,4 @@
 # miipher-evaluation
+Evaluation script for Miipher
 
-Describe your project here.
+The evaluation result for the public model is available here
